@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1515077914 source:/home/jingchah/MyCode/studyLinux/ShowProcId/main.cpp
+	<iostream>
+	<unistd.h>
+
